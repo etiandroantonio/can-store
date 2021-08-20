@@ -1,0 +1,74 @@
+[
+  {
+    "name" : "feijões cozidos",
+    "price" : 0.40,
+    "image" : "beans.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "salsichas",
+    "price" : 1.99,
+    "image" : "hotdogs.jpg",
+    "type" : "carne"
+  },
+  {
+    "name" : "salsicha enlatada",
+    "price" : 2.85,
+    "image" : "spam.jpg",
+    "type" : "carne"
+  },
+  {
+    "name" : "puré de feijões",
+    "price" : 0.99,
+    "image" : "refried.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "feijões naturais",
+    "price" : 0.58,
+    "image" : "kidney.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "ervillhas",
+    "price" : 0.52,
+    "image" : "gardenpeas.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "ervilha mole",
+    "price" : 0.58,
+    "image" : "mushypeas.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "carne salgada",
+    "price" : 2.39,
+    "image" : "cornedbeef.jpg",
+    "type" : "carne"
+  },
+  {
+    "name" : "sopa de tomate",
+    "price" : 1.40,
+    "image" : "tomatosoup.jpg",
+    "type" : "sopa"
+  },
+  {
+    "name" : "picado de tomate",
+    "price" : 0.45,
+    "image" : "tomato.jpg",
+    "type" : "vegetais"
+  },
+  {
+    "name" : "sopa pronta",
+    "price" : 1.89,
+    "image" : "chickennoodle.jpg",
+    "type" : "sopa"
+  },
+  {
+    "name" : "sopa de cenoura",
+    "price" : 1.49,
+    "image" : "carrotcoriander.jpg",
+    "type" : "sopa"
+  }
+]
